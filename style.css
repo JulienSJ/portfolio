@@ -1,0 +1,21 @@
+
+        /* Style pour le titre */
+        h1 {
+            font-style: italic; /* Titre en italique */
+            color: skyblue; /* Titre en bleu ciel */
+            font-family: 'Arial', sans-serif; /* Police sans-serif */
+        }
+
+        h2 {
+            font-style: italic; /* Sous-titre en italique */
+            color: skyblue; /* Sous-titre en bleu ciel */
+            font-family: 'Arial', sans-serif; /* Police sans-serif */
+        }
+
+        /* Style pour le corps du texte */
+        p {
+            color: #333; /* Corps du texte en gris foncé */
+            font-family: 'Arial', sans-serif; /* Police sans-serif */
+            font-weight: 300; /* Police fine */
+        }
+    
